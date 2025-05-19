@@ -1,11 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FBCFE8&height=180&section=header&text=Yeonju%20Jo&fontSize=40&fontColor=000000&fontAlignY=35" />
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/-🤝%20협업과%20소통을%20중요하게%20여기는%20개발자%20연주입니다!-FCE7F3?style=for-the-badge&logo=heart&logoColor=FF69B4&labelColor=F9A8D4&color=FBCFE8" />
 </p>
-
 
 ---
 
