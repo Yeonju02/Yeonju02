@@ -42,4 +42,6 @@
 ---
 
 <!-- 아래는 그래픽 효과용 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
+</p>
