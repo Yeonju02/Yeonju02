@@ -1,9 +1,5 @@
-<!-- 상단 배경 이미지처럼 보이게 꾸미기 (원한다면 배경 SVG를 넣을 수도 있음) -->
-
-<h1 align="center">Yeji Kim</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FBCFE8&height=180&section=header&text=Yeji%20Kim&fontSize=40&fontColor=000000&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FBCFE8&height=180&section=header&text=Yeonju%20Jo&fontSize=40&fontColor=000000&fontAlignY=35" />
 </p>
 
 <p align="center">
