@@ -34,9 +34,9 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=연주GitHub아이디&layout=compact&langs_count=8&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeonju02&layout=compact&langs_count=8&theme=default"/>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=연주GitHub아이디&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yeonju02&show_icons=true&theme=default"/>
 </p>
 
 ---
